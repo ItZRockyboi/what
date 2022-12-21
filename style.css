@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+    font-family: 'Rubik Vinyl', cursive;
+    color:darkgreen;
+}
+
+
+
+
+
+
+.copyrightfooter {
+    position: fixed;
+    color:white ;
+    bottom: 0;
+    width: 100%;
+    background-color:darkcyan;
+    text-align: center;
+    line-height: 3;
+    font-size: 15px;
+    font-weight: bold;
+}
